@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The following analysis was performed to examine the ride-sharing data to determine the total weekly fares for each city type. we will also be analyzing how the data differs by city type and how those differences can be used to make important business decisions at PyBer.
+The following analysis of PyBer ride share was performed to examine the total weekly fares for each city type and how the data differs by city type in order to provide insight to stakeholders for the types of cities require additionaly driver support.
 
 ### ***NOTE: Due to GitHub DataFrame rendering issues for Jupyter Notebook files, the [.ipynb]() file can also be viewed [here]().***
 
