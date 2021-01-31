@@ -2,26 +2,58 @@
 
 ## Project Overview
 
-The following analysis of PyBer ride share was performed to examine the total weekly fares for each city type and how the data differs by city type in order to provide insight to stakeholders for the types of cities require additionaly driver support.
+The analysis of PyBer ride share data was performed to determine the following information regarding 1) Urban, 2) Suburban and 3) Rural cities: 
+
+a) Total rides for each city type
+b) Total drivers for each city type
+c) Total fares for each city type
+d) Average fare per ride each city type
+e) Average fare per driver each city type.
+
+This analysis will also be examining the total weekly fares for the period of January 2019 to April 2019 for each city type with the goal of improving access to ride sharing services and determining affordability for underserved neighborhoods.
 
 ### ***NOTE: Due to GitHub DataFrame rendering issues for Jupyter Notebook files, the [.ipynb]() file can also be viewed [here]().***
 
 ## Resources 
+
 - Software: Anaconda 4.9.2, Jupyter Notebook 6.1.4, Python 3.8.5
 - Data Sources: 
-   1. Data Analysis: 
-   2. Raw data: 
-
+   1. Data Analysis: [Pyber_Challenge](PyBer_Challenge.ipynb)
+   2. Raw data: [city_data.csv](Resources/city_data.csv), [ride_data.csv](Resources/ride_data.csv)
 
 ## Results
-Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-- There is a description of the differences in ride-sharing data among the different city types. 
-- Ride-sharing data include: 
 
-a) the total ride
-b) total driverstotal fares 
-c) average fare per ride and driver
-d) total fare by city type.
+<p align="center">
+  <img src="Resources/PyBer_ride_summary.png" width="900"/>
+</p>
+
+1. Based on the results for **Urban cities** we can determine the following:
+
+a) Urban cities are responsible for approximately **68.4%** of the total rides.
+b) Urban cities make up approximately **62.7%** of total fares.
+c) Approximately **80.9%** of PyBer drivers work in Urban cities.
+d) The average fare per ***ride*** in Urban cities is approximately **$24.53**.
+e) The average fare per ***driver*** in Urban cities is approximately **$16.57**.
+
+2. Based on the results for **Suburban cities** we can determine the following:
+
+a) Suburban cities are responsible for approximately **26.3%** of the total rides.
+b) Suburban cities make up approximately **30.5%** of total fares.
+c) Approximately **16.5%** of PyBer drivers work in Suburban cities.
+d) The average fare per ***ride*** in Suburban cities is approximately **$30.97**.
+e) The average fare per ***driver*** in Suburban cities is approximately **$39.50**.
+
+3. Based on the results for **Rural cities** we can determine the following:
+
+a) Rural cities are responsible for approximately **5.3%** of the total rides.
+b) Rural cities make up approximately **6.8%** of total fares.
+c) Approximately **2.8%** of PyBer drivers work in Rural cities.
+d) The average fare per ***ride*** in Rural cities is approximately **$34.62**.
+e) The average fare per ***driver*** in Rural cities is approximately **$55.49**.
+
+<p align="center">
+  <img src="Resources/Fig_10.png" width="900"/>
+</p>
 
 ## Summary: 
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
