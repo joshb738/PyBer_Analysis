@@ -26,7 +26,8 @@ This analysis will also be examining the total weekly fares for the period of Ja
 <p align="left">
   <img src="Resources/PyBer_fare_summary.png" width=800"/>
 </p>
-
+                                                        
+#### Urban Cities                                                  
 1. Based on the results for **Urban cities** we can determine the following:
    
    a) Urban cities are responsible for approximately **68.4%** of the total rides.
