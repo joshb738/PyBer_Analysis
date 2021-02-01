@@ -24,7 +24,7 @@ This analysis will also be examining the total weekly fares for the period of Ja
 ## Results
 
 <p align="center">
-  <img src="Resources/PyBer_fare_summary.png" width=500"/>
+  <img src="Resources/PyBer_fare_summary.png" width=800"/>
 </p>
 
 1. Based on the results for **Urban cities** we can determine the following:
