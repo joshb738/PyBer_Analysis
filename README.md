@@ -57,9 +57,13 @@ This analysis will also be examining the total weekly fares for the period of Ja
 3. Based on the results for **Rural cities** we can determine the following:
    
    a) Rural cities are responsible for approximately **5.3%** of the total rides.
+   
    b) Rural cities make up approximately **6.8%** of total fares.
+   
    c) Approximately **2.8%** of PyBer drivers work in Rural cities.
+   
    d) The average fare per ***ride*** in Rural cities is approximately **$34.62**.
+   
    e) The average fare per ***driver*** in Rural cities is approximately **$55.49**.
 
 <p align="center">
