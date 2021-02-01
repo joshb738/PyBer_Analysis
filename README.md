@@ -65,7 +65,9 @@ This analysis will also be examining the total weekly fares for the period of Ja
    e) The average fare per ***driver*** in Rural cities is approximately **$55.49**.
 
 #### Conclusion
+
 - Despite Rural Cities having the least number of available drivers, these cities are producing the highest average fares per ride & driver.
+
 - Urban cities make up the majority of PyBers rides, fares, and drivers.
 
 #### Jan 2019 - Apr 2019 fare analysis
