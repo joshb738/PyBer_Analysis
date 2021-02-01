@@ -23,7 +23,7 @@ This analysis will also be examining the total weekly fares for the period of Ja
 
 ## Results
 
-<p align="center">
+<p align="left">
   <img src="Resources/PyBer_fare_summary.png" width=800"/>
 </p>
 
