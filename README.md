@@ -23,10 +23,10 @@ This analysis will also be examining the total weekly fares for the period of Ja
 
 ## Results
 
-<p align="left">
-  <img src="Resources/PyBer_fare_summary.png" width=800"/>
+<p align="center">
+  <img src="Resources/Fig_8.PNG" width="800"/>
 </p>
-                                                        
+
 #### Urban Cities                                                  
 1. Based on the results for **Urban cities** we can determine the following:
    
@@ -66,8 +66,9 @@ This analysis will also be examining the total weekly fares for the period of Ja
    
    e) The average fare per ***driver*** in Rural cities is approximately **$55.49**.
 
-<p align="center">
-  <img src="Resources/Fig_8.PNG" width="900"/>
+
+<p align="left">
+  <img src="Resources/PyBer_fare_summary.png" width=800"/>
 </p>
 
 ## Summary: 
