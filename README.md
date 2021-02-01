@@ -72,4 +72,8 @@ This analysis will also be examining the total weekly fares for the period of Ja
 </p>
 
 ## Summary: 
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+Based on the results, PyBer may want to conside the following three recommendations to address the disparities among the city types.
+
+1.
+2.
+3.
