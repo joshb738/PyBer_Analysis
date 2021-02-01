@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The analysis of PyBer ride share data was performed to determine the following metrics regarding 1) Urban, 2) Suburban and 3) Rural cities: 
+The analysis of PyBer ride share data was performed to determine the following metrics regarding 1) ***Urban***, 2) ***Suburban*** and 3) ***Rural cities***: 
 
   - a) Total rides for each city type
   - b) Total drivers for each city type
