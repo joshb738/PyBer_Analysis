@@ -60,7 +60,7 @@ d) The average fare per ***ride*** in Rural cities is approximately **$34.62**.
 e) The average fare per ***driver*** in Rural cities is approximately **$55.49**.
 
 <p align="center">
-  <img src="Resources/Fig_8.png" width="900"/>
+  <img src="Resources/Resources/Fig_8.PNG" width="900"/>
 </p>
 
 ## Summary: 
