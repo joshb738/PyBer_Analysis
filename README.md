@@ -67,7 +67,7 @@ This analysis will also be examining the total weekly fares for the period of Ja
 ## Summary: 
 
 <p align="left">
-  <img src="Resources/PyBer_fare_summary.png" width=800"/>
+  <img src="Resources/PyBer_fare_summary.png" width=900"/>
 </p>
                                                         
 Based on the results, PyBer may want to conside the following three recommendations to address the disparities among the city types.
