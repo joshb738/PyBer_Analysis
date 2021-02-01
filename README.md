@@ -75,9 +75,11 @@ This analysis will also be examining the total weekly fares for the period of Ja
 <p align="left">
   <img src="Resources/PyBer_fare_summary.png" width=900"/>
 </p>
-Based on the results, PyBer may want to consider the following three recommendations to address the disparities among the city types.
+
+- During the period of January 2019 - April 2019 the results for PyBer’s Total fares based on city types appear to follow the standard trend for PyBer data. Urban cities are producing the highest fare prices, Suburban cities following at mid fare range and Rural cities are producing the lowest fares.
 
 ## Summary: 
+Based on the results, PyBer may want to consider the following three recommendations to address the disparities among the city types.
 
 1. Implement set fares based on various KM ranges for Rural cities provide extra incentive for customers to choose PyBer.
 
