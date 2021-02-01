@@ -12,8 +12,6 @@ The analysis of PyBer ride share data was performed to determine the following m
 
 This analysis will also be examining the total weekly fares for the period of January 2019 to April 2019 for each city type with the goal of improving access to ride sharing services and determining affordability for underserved neighborhoods.
 
-### ***NOTE: Due to GitHub DataFrame rendering issues for Jupyter Notebook files, the [.ipynb]() file can also be viewed [here]().***
-
 ## Resources 
 
 - Software: Anaconda 4.9.2, Jupyter Notebook 6.1.4, Python 3.8.5
@@ -74,6 +72,6 @@ This analysis will also be examining the total weekly fares for the period of Ja
 ## Summary: 
 Based on the results, PyBer may want to conside the following three recommendations to address the disparities among the city types.
 
-1.
+1. 
 2.
 3.
