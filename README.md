@@ -40,13 +40,12 @@ This analysis will also be examining the total weekly fares for the period of Ja
    
    e) The average fare per ***driver*** in Urban cities is approximately **$16.57**.
 
+#### Sububan Cities    
 2. Based on the results for **Suburban cities** we can determine the following:
-
-a) Suburban cities are responsible for approximately **26.3%** of the total rides.
-
-b) Suburban cities make up approximately **30.5%** of total fares.
-
-c) Approximately **16.5%** of PyBer drivers work in Suburban cities.
+   
+   a) Suburban cities are responsible for approximately **26.3%** of the total rides.
+   b) Suburban cities make up approximately **30.5%** of total fares.
+   c) Approximately **16.5%** of PyBer drivers work in Suburban cities.
 
 d) The average fare per ***ride*** in Suburban cities is approximately **$30.97**.
 
