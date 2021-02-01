@@ -4,11 +4,11 @@
 
 The analysis of PyBer ride share data was performed to determine the following information regarding 1) Urban, 2) Suburban and 3) Rural cities: 
 
-   a) Total rides for each city type
-   b) Total drivers for each city type
-   c) Total fares for each city type
-   d) Average fare per ride each city type
-   e) Average fare per driver each city type.
+  - a) Total rides for each city type
+  - b) Total drivers for each city type
+  - c) Total fares for each city type
+  - d) Average fare per ride each city type
+  - e) Average fare per driver each city type
 
 This analysis will also be examining the total weekly fares for the period of January 2019 to April 2019 for each city type with the goal of improving access to ride sharing services and determining affordability for underserved neighborhoods.
 
